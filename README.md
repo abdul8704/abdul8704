@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full-Stack Development <br/>
+🔭 I’m currently working on DSA & Full-Stack Development <br/>
 👯 I’m looking to collaborate on Full-Stack Projects <br/>
 🌱 I’m currently learning React.js & DSA with Java <br/> 
 <br>
